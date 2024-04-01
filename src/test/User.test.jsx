@@ -24,3 +24,4 @@ describe("User component", () => {
     expect(handleText).toBeInTheDocument();
   });
 });
+
